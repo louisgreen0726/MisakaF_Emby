@@ -1,0 +1,8 @@
+# 反代后的域名
+domain: "xxx.xxx.com"
+# 反代域名的SSL证书路径
+ssl_certificate: "/root/proxy/xxx.com.cer"
+ssl_certificate_key: "/root/proxy/xxx.com.key"
+
+# 需要反代的Emby地址
+emby_url: "https://xxx.misakaf.org"

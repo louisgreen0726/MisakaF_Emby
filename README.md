@@ -2,9 +2,9 @@
 
 ![github](https://badgen.net/github/stars/MisakaFxxk/MisakaF_Emby)  ![github](https://badgen.net/github/forks/MisakaFxxk/MisakaF_Emby)
 
+## 来自github [@MisakaFxxk](https://github.com/MisakaFxxk) 备份
+
 #### 如有用请star，如需修改请提交pr，为防github发疯删号，有条件的也请多fork留种。
-
-
 
 #### [账号注册机器人](https://github.com/xi11-ov/MisakaF_Emby/tree/main/create)
 

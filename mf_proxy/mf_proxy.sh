@@ -100,7 +100,7 @@ if [[ "$AUTO_SSL" == "y" || "$AUTO_SSL" == "Y" ]]; then
 fi
 
 # 4. 下载 MF Proxy
-DOWNLOAD_URL="https://raw.githubusercontent.com/xi11-ov/MisakaF_Emby/refs/heads/main/mf_proxy/MF_Proxy"
+DOWNLOAD_URL="https://raw.githubusercontent.com/MisakaFxxxk/MisakaF_Emby/refs/heads/main/mf_proxy/MF_Proxy"
 INSTALL_DIR="/opt/mf_proxy"
 BINARY_NAME="mf_proxy"
 BINARY_PATH="${INSTALL_DIR}/${BINARY_NAME}"

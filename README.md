@@ -2,6 +2,9 @@
 
 ![github](https://badgen.net/github/stars/MisakaFxxk/MisakaF_Emby)  ![github](https://badgen.net/github/forks/MisakaFxxk/MisakaF_Emby)
 
+### 当极光在十二月的雪地上签收所有逾期承诺，当风铃第七遍朗诵你的名字——那时你留在门框上的指纹将突然返青，而所有曾经失去的，终将被送回最初的沙岸。
+或许所有人都在等待倒转的月亮，所有人都在期待那个人的回来。
+
 ### 来自github [@MisakaFxxk](https://github.com/MisakaFxxk) 备份
 
 #### 如有用请star，如需修改请提交pr，为防github发疯删号，有条件的也请多fork留种。
